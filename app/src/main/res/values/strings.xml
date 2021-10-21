@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ElSol</string>
+
+    <string name="coronasolar">Corona Solar</string>
+    <string name="erupcionsolar">Erupcion Solar</string>
+    <string name="espiculas">Espiculas</string>
+    <string name="filamentos">Filamentos</string>
+    <string name="magnetoesfera">Magnetoesfera</string>
+    <string name="manchasolar">Mancha Solar</string>
+
+    <string name="copiar">Mancha Solar</string>
+    <string name="pegar">Mancha Solar</string>
+    <string name="cortar">Mancha Solar</string>
+    <string name="eliminar">Mancha Solar</string>
+    <string name="duplicar">Mancha Solar</string>
+</resources>

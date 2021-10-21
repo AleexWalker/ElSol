@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_uno"
+        app:showAsAction="never"
+        android:title="Copiar"/>
+
+    <item
+        android:id="@+id/action_dos"
+        app:showAsAction="never"
+        android:title="Eliminar"/>
+
+    <item
+        android:id="@+id/action_tres"
+        app:showAsAction="never"
+        android:title="Cortar"/>
+
+    <item
+        android:id="@+id/action_cuatro"
+        app:showAsAction="never"
+        android:title="Renombrar"/>
+
+    <item
+        android:id="@+id/action_cinco"
+        app:showAsAction="never"
+        android:title="Mover"/>
+</menu>
